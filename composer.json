@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-webdriver/webdriver": "^1.8",
+        "fzaninotto/faker": "^1.9"
+    }
+}
